@@ -5,4 +5,5 @@
 - Docs<br>
 - Search<br>
 - Plugins: provide extensibility and customizability<br>
+
 ![alt text](screenshots/image.png)
