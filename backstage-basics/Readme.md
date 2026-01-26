@@ -14,6 +14,7 @@
 - A **Component** represents software or a piece of a distributed system that an organisaton wants to keep track of; eg. A Java or flask microservice.<br>
 - A **System** is a logical grouping of multiple **APIs** or **Components** that achieve a software's organisational goal. Eg. 3 APIs that manage products in an ecommerce application; An API to upload an new product by an administrator or a warehouse employee, one that allows a customer to buy an product, and one that manages the lifecycle of a product (Available, Out of stock or No longer available).<br>
 - A **Domain** is logical representation of entities (Groups and Users) alongside Systems, it represents a business inside an Organisation; eg. The e-banking domain: Teams, Components, APIs, Users...<br>
+- A **Resource** is an infrastructure component on which API's/Components rely on in order to operate. Eg. An EC2 instance, an S3 bucket or a DynamoDB database.
 
 # Registering components in Backstage
 There are various methods in order to fill our catalog in Backstage:<br>
@@ -34,7 +35,7 @@ https://github.com/stoffffff/platform-engineering-with-backstage/blob/main/catal
 2️⃣ Registering via Backstage templates:<br>
 - Every software registered via backstage's templates is automatically saved in the catalog.<br>
 
-3️⃣​ Static registering: <br>
+3️⃣​ Static registeration: <br>
 - We can also throw some yaml lines to our backstage instance's configuration file in order to register components.<br>
 
 ![alt text](screenshots/static-registering.png)
