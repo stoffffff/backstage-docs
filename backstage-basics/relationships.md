@@ -1,35 +1,39 @@
 # Relationships between entities
 First of all, a good thing that I like and made it so much easier for me to understand the relationships between entities is to have 2 groups of elements:<br>
 
-### 1️⃣Who owns things in Backstage ?<br>
+#### 1️⃣Who owns things in Backstage ?<br>
 #### There could only be two kinds of owners in Backstage, Users and Groups.<br>
 - You guessed it right, a Group can have multiple Users.<br>
 - A User can be part of one or multiple Groups.<br>
 - A Group can have one parent and many childs.<br>
 - A Group could be a [team, business unit, product-area, root].<br>
 
-### Let's put a use-case into action<br>
+#### Let's put a use-case into action<br>
 - Creating a Parent Group 'technical-department'<br>
 - Creating a  Child Group 'developers' member of 'technical-department'<br>
 - Creating a User 'Marcos' member of 'developers'<br>
 
 ![alt text](screenshots/relationships.png)
+
 **Let's check them up in Backstage's catalog**<br>
 
 ![alt text](screenshots/relationships1.png)
+
 **Let's check the "developers" group**<br>
 
 ![alt text](screenshots/relationships2.png)
+
 **Let's check the "technical-department" group**<br>
 
 ![alt text](screenshots/relationships3.png)
+
 **Let's filter to Users an check "Marcos"**<br>
 
 ![alt text](screenshots/relationships4.png)
 
 All set up as expected!
 
-### 2️⃣ What do the owners own ?<br>
+#### 2️⃣ What do the owners own ?<br>
 #### Several entities in Backstage can be owned by Users and Groups:<br>
 #### Components:<br>
 - Can Provide one or many **APIs**.<br>
@@ -62,6 +66,35 @@ All set up as expected!
 - The highest level of organization. It represents a large functional area of your business or a major "problem space".<br>
 
 ![alt text](screenshots/domain.png)
+
+#### Let's check them up in Backstage.<br>
+1️⃣ Teams/Groups are created<br>
+
+![alt text](screenshots/teams-creation.png)
+
+2️⃣ Importing the entities<br>
+###### For this demo purpose, I added a new location of my yaml config, so I need to import it to my app-config.yaml so that Backstage can know from where to pull the informations about new entities. The location is ***backstage/example/demo-entities***<br>
+
+![alt text](screenshots/demo-location.png)
+
+All set ! Let's check the catalog now.<br>
+#### "payments-processing" domain:<br>
+
+![alt text](screenshots/payments-processing.png)
+
+#### "checkout-workflow" system:<br>
+
+![alt text](screenshots/checkout-workflow.png)
+
+#### "checkout-db" resource:<br>
+
+![alt text](screenshots/checkout-db.png)
+
+#### Nice ! Note that Backstage is so good at translating out yaml lines into useful UI.<br>
+###### Please find the next lecture here: PUT LINK HERE
+
+
+
 
 
 

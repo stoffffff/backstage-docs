@@ -24,7 +24,6 @@ There are various methods in order to fill our catalog in Backstage:<br>
 
 ![alt text](screenshots/register-component.png)
 
-
 ***Paste the url to that file, then hit analyze***<br>
 
 ![alt text](screenshots/register-component-2.png)
