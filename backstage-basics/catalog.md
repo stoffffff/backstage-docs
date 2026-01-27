@@ -1,4 +1,4 @@
-**Backstage is an opensource framework to build and provide internal developer portals.**
+### Backstage is an opensource framework that helps platform engineers build internal developer portals.
 # Backstage's features
 - Catalog<br>
 - Templates<br>
@@ -40,3 +40,4 @@ https://github.com/stoffffff/platform-engineering-with-backstage/blob/main/catal
 
 ![alt text](screenshots/static-registering.png)
 
+###### Please find the next lecture here: https://github.com/stoffffff/backstage-docs/blob/main/backstage-basics/relationships.md
