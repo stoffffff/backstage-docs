@@ -12,7 +12,7 @@ These docs are for curious Platform or DevOps engineers who are willing to eithe
 # Start here ⬇️
 ###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-basics/catalog.md
 
-# If you want to run a backstage instance in your local machine or in the cloud, please follow the steps from the official docs in the link below ⬇️
+#### If you want to run a backstage instance in your local machine or in the cloud, please follow the steps from the official docs in the link below ⬇️
 ###### https://backstage.io/docs/getting-started/
 
 ###### Mustapha N. | mnf0713
