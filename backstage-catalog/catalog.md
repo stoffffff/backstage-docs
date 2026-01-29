@@ -39,4 +39,9 @@ https://github.com/stoffffff/platform-engineering-with-backstage/blob/main/catal
 
 ![alt text](screenshots/static-registering.png)
 
-###### Please find the next lecture here: https://github.com/stoffffff/backstage-docs/blob/main/backstage-basics/relationships.md
+4️⃣ Automatically fetching entities from a github organization:<br>
+- We will talk about this topic in the integrations section.<br>
+
+
+###### Please find the next lecture here: https://github.com/stoffffff/backstage-docs/blob/main/backstage-catalog/relationships.md
+                                          

@@ -91,7 +91,8 @@ All set ! Let's check the catalog now.<br>
 ![alt text](screenshots/checkout-db.png)
 
 #### Nice ! Note that Backstage is so good at translating out yaml lines into useful UI.<br>
-###### Please find the next lecture here: PUT LINK HERE
+###### Please find the next lecture here ⬇️<br>
+###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-catalog/api-spec.md
 
 
 

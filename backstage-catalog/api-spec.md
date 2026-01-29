@@ -26,4 +26,6 @@ https://github.com/stoffffff/platform-engineering-with-backstage/blob/main/catal
 
 ![alt text](screenshots/api-spec5.png)
 
-#### Pretty clean and usefull for developers trying to figure out how a certain API works and what components it interacts with! 😁
+#### Pretty clean and useful for newly hired developers trying to figure out how a certain API works and what components it interacts with! 😁
+###### Please find the next lecture here ⬇️<br>
+###### PUT_LINK_HERE 
