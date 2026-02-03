@@ -30,6 +30,22 @@ Let's break down what they are used for:<br>
 
 #### Same as for components, this config tells backstage to fetch in my organization's repositories for any .yaml file that is under the following path ***/templates/ANY_SUBDIRECTORY***.<br>
 
+- Take a look at the template code here ⬇️<br>
+###### PUT LINK HERE<br>
+
+- Take a look at the nodejs squeleton here ⬇️<br>
+###### PUT LINK HERE<br>
+
+#### In the previous steps, Backstage will pull the squeleton repo, overrides the variables with the data given by the developers while filling up the template's forms, then it will create a new repository in github and returns it's link.<br>
+
+#### IMPORTANT: Since we will use github actions workflow, we should update the basic token we passed to backstage, remember that our token only had repository permissions right ? We need to give it an other permission in orer to run github actions workflows.<br>
+
+![alt text](screenshots/templating3.png)
+
+#### Now, let's act as a developer and try to use this template and see the outcome. <br>
+
+
+
 
 
 
