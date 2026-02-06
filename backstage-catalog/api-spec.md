@@ -28,4 +28,4 @@ https://github.com/stoffffff/platform-engineering-with-backstage/blob/main/catal
 
 #### Pretty clean and useful for newly hired developers trying to figure out how a certain API works and what components it interacts with! 😁
 ###### Please find the next lecture here ⬇️<br>
-###### PUT_LINK_HERE 
+###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-catalog/integrations.md

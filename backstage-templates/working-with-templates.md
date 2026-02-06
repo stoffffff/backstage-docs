@@ -11,7 +11,6 @@ Let's break down what they are used for:<br>
 
 # Using templates
 #### In the following demo, we will create a template that creates a dummy github repo that will be used for a new development need. The developers will provide some input using the template's form. We will go step by step:<br>
-
 #### There are different ways to register a template in Backstage. Remember that a template is an entity itself, so it is not that much different from components when it comes to registering new ones.<br>
 
 #### 1️⃣ Registering from the UI:<br>
@@ -23,7 +22,6 @@ Let's break down what they are used for:<br>
 - Hit create!<br>
 
 #### 2️⃣ Setting Backstage to automatically fetch new templates from one of your organization's repositories ***This will be the method used in this demo***.<br>
-
 - Start by adding this configurtion to your **app.config.yaml** file<br>
 
 ![alt text](screenshots/templating2.png)
@@ -71,7 +69,7 @@ Let's check our github account now:<br>
 #### Note that Backstage also registered the new repository as a component in the catalog! 
 
 ###### Please find the next lecture here ⬇️<br>
-###### PUT_LINK_HERE
+###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-techdocs/techdocs.md
 
 
 

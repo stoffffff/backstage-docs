@@ -48,11 +48,13 @@ Notice that now, we can hover the ***view techdocs*** button since we onboarded 
 
 ![alt text](screenshots/techdocs6.png)
 
-Click "VIEW TECHDOCS".<br>
+Click "VIEW TECHDOCS", then ⬇️<br>
 
 ![alt text](screenshots/techdocs7.png)
 
 #### Bingo!
+###### Please find the next lecture here ⬇️<br>
+###### PUT_LINK_HERE
 
 
 
