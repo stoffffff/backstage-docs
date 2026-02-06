@@ -64,11 +64,14 @@ Let's check our github account now:<br>
 
 ![alt text](screenshots/templating8.png)
 
-Note that Backstage automatically create the ***"project-alpha"*** repository.<br>
+#### Note that Backstage automatically created the ***"project-alpha"*** repository.<br>
 
 ![alt text](screenshots/templating9.png)
 
-Note that Backstage also registered the new rpeository as a component in the catalog! 
+#### Note that Backstage also registered the new repository as a component in the catalog! 
+
+###### Please find the next lecture here ⬇️<br>
+###### PUT_LINK_HERE
 
 
 
