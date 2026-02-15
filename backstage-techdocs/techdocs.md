@@ -54,7 +54,7 @@ Click "VIEW TECHDOCS", then ⬇️<br>
 
 #### Bingo!
 ###### Please find the next lecture here ⬇️<br>
-###### PUT_LINK_HERE
+###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-customization/ui-customization.md
 
 
 
