@@ -19,4 +19,4 @@ Don't forget those imports.<br>
 
 Clean ! I like it. 😁<br>
 ###### Please find the next lecture here ⬇️<br>
-###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-customization/ui-customization.md
+###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-plugins/plugins.md

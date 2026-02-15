@@ -48,7 +48,7 @@ Refresh, and check it out at your backstage instance.<br>
 
 ![alt text](screenshots/plugins7.png)
 
-Click on Githyb-Actions button. Result:🔽<br>
+Click on Github-Actions button. Result:🔽<br>
 
 ![alt text](screenshots/plugins8.png)
 
