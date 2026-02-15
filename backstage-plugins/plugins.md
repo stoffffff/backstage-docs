@@ -8,9 +8,9 @@ Let's take for example my component "project-alpha", we can see a tab CI/CD in t
 ![alt text](screenshots/plugins1.png)
 
 This means that we need to add the github-actions plugin (or gitlab if you're using it) in order to fetch our workflows' data, so let's do it !<br>
-Go the official backstage plugins page and choose the plugin you want to integrate with your instance.<br>
+- Go the official backstage plugins page and choose the plugin you want to integrate with your instance.<br>
 In our case, it's the ***github-actions*** plugin.<br>
-So let's follow the steps of installation from their official repo.<br>🔽
+- So let's follow the steps of installation from their official repo.<br>🔽
 https://github.com/backstage/community-plugins/tree/main/workspaces/github-actions/plugins/github-actions
 
 #### STEP 1: Intalling packages
@@ -30,9 +30,9 @@ Importing the package in our index.ts file.<br>
 ![alt text](screenshots/plugins4.png)
 
 #### STEP 2: Configuration
-Create an OAuth app in your github portal. Once done, get your ***client_id*** and ***client_secret***.<br>
-For dev purposes, I am gonna store them as environment variables.<br>
-Now, let's add this block into our config file ***app-config.yml***.<br>
+- Create an OAuth app in your github portal. Once done, get your ***client_id*** and ***client_secret***.<br>
+- For dev purposes, I am gonna store them as environment variables.<br>
+- Now, let's add this block into our config file ***app-config.yml***.<br>
 
 ![alt text](screenshots/plugins5.png)
 

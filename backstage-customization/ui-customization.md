@@ -18,3 +18,5 @@ Don't forget those imports.<br>
 ![alt text](screenshots/ui4.png)
 
 Clean ! I like it. 😁<br>
+###### Please find the next lecture here ⬇️<br>
+###### https://github.com/stoffffff/backstage-docs/blob/main/backstage-customization/ui-customization.md
